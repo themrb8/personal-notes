@@ -1,6 +1,12 @@
-# learn-pinia-and-vue
+# personal-notes
 
-This template should help get you started developing with Vue 3 in Vite.
+In this vue + pinia state management + tailwindcss I had used to make a web app. It's still under development. I am learning these stuff. It's all about fun, trust me. 
+
+Thank you 
+
+
+
+###If you want to run this project on your machine? Just download and following below commands.
 
 ## Recommended IDE Setup
 
